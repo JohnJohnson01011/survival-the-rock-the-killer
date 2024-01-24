@@ -19,3 +19,5 @@ if keyboard_check(ord("D")) {
 }
 
 speed = lerp(speed, 0, 0.075)
+
+move_wrap(true, true, 16) // sprite_width/2
