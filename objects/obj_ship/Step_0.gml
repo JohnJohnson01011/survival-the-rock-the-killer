@@ -25,5 +25,4 @@ if keyboard_check_pressed(vk_space) {
 	var bullet = instance_create_layer(x, y, "Instances", obj_bullet)
 	bullet.direction = image_angle
 	bullet.speed = 7
-	alarm_set(0, 60)
 }
