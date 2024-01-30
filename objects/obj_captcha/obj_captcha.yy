@@ -2,7 +2,10 @@
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
   "name": "obj_captcha",
-  "spriteId": null,
+  "spriteId": {
+    "name": "spr_captcha",
+    "path": "sprites/spr_captcha/spr_captcha.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,

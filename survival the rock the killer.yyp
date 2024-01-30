@@ -11,6 +11,7 @@
     {"id":{"name":"fnt_text","path":"fonts/fnt_text/fnt_text.yy",},"order":0,},
     {"id":{"name":"obj_bullet","path":"objects/obj_bullet/obj_bullet.yy",},"order":2,},
     {"id":{"name":"obj_captcha","path":"objects/obj_captcha/obj_captcha.yy",},"order":5,},
+    {"id":{"name":"obj_start","path":"objects/obj_start/obj_start.yy",},"order":6,},
     {"id":{"name":"spr_asteroid_med","path":"sprites/spr_asteroid_med/spr_asteroid_med.yy",},"order":2,},
     {"id":{"name":"spr_asteroid_small","path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",},"order":3,},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
