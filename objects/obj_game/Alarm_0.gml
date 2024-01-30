@@ -1,3 +1,5 @@
+if room != rm_game {exit}
+
 if choose(0, 1) == 0 {
 	instance_create_layer(
 		choose(0, room_width), irandom_range(0, room_height),
@@ -10,4 +12,4 @@ if choose(0, 1) == 0 {
 	)
 }
 
-alarm[0] = room_speed * 4
+alarm[0] = room_speed * 3
