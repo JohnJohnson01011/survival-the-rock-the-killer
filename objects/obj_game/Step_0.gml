@@ -11,8 +11,9 @@ if mouse_check_button_pressed(mb_left) {
 
 
 if room == rm_game {
-	if score >= 952 {
+	if score >= 752 {
 		audio_play_sound(msc_win, 1, false)
+		audio_pause_sound(msc_theme)
 		room_goto(rm_win)
 	}
 	if health <= 0 {

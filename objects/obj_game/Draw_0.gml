@@ -14,7 +14,7 @@ switch(room) {
 		
 		draw_text(
 			room_width/2, 200,
-@" score 952 for a minor dopamine hit
+@" score 752 for a minor dopamine hit
 
 WASD: Move
 Hold Space: Shoot

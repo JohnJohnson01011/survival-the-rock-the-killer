@@ -22,6 +22,7 @@
     {"id":{"name":"spr_asteroid_small","path":"sprites/spr_asteroid_small/spr_asteroid_small.yy",},"order":3,},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},"order":1,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":4,},
+    {"id":{"name":"spr_therock","path":"sprites/spr_therock/spr_therock.yy",},"order":8,},
     {"id":{"name":"msc_theme","path":"sounds/msc_theme/msc_theme.yy",},"order":4,},
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},"order":0,},
     {"id":{"name":"msc_hit3","path":"sounds/msc_hit3/msc_hit3.yy",},"order":6,},

@@ -1,7 +1,7 @@
 if ship_speed == 0.32 {
 	health -= 1
 	image_index += 1
-	
+	audio_play_sound(msc_hit3, 2, false)
 	
 	repeat(25) {
 		instance_create_layer(x, y, "Instances", obj_debris)
