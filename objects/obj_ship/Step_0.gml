@@ -23,6 +23,7 @@ move_wrap(true, true, 16) // sprite_width/2
 
 if keyboard_check(vk_space) {
 	if count == 0 {
+		audio_play_sound(msc_shoot, 1, false)
 		var bullet = instance_create_layer(x, y, "Instances", obj_bullet)
 		bullet.direction = image_angle
 		bullet.speed = bullet_speed

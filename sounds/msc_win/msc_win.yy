@@ -1,12 +1,12 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "msc_bossdeath",
+  "name": "msc_win",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
   },
-  "soundFile": "msc_bossdeath.wav",
+  "soundFile": "msc_win.wav",
   "conversionMode": 0,
   "compression": 0,
   "volume": 1.0,

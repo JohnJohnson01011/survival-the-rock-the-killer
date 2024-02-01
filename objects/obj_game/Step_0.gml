@@ -12,9 +12,11 @@ if mouse_check_button_pressed(mb_left) {
 
 if room == rm_game {
 	if score >= 952 {
+		audio_play_sound(msc_win, 1, false)
 		room_goto(rm_win)
 	}
 	if health <= 0 {
+		audio_play_sound(msc_death, 1, false)
 		endText = endTexts[irandom(array_length(endTexts) - 1)]
 		room_goto(rm_lose)
 	}

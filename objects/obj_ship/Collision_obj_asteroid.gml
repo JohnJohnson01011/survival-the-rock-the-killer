@@ -2,6 +2,7 @@ if ship_speed == 0.32 {
 	health -= 1
 	image_index += 1
 	
+	
 	repeat(25) {
 		instance_create_layer(x, y, "Instances", obj_debris)
 	}

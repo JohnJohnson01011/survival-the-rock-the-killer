@@ -9,7 +9,7 @@
   "soundFile": "msc_shoot.wav",
   "conversionMode": 0,
   "compression": 0,
-  "volume": 1.0,
+  "volume": 0.69,
   "preload": false,
   "bitRate": 64,
   "sampleRate": 44100,

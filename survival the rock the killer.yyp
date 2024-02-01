@@ -26,7 +26,7 @@
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},"order":0,},
     {"id":{"name":"msc_hit3","path":"sounds/msc_hit3/msc_hit3.yy",},"order":6,},
     {"id":{"name":"spr_debris","path":"sprites/spr_debris/spr_debris.yy",},"order":5,},
-    {"id":{"name":"msc_bossdeath","path":"sounds/msc_bossdeath/msc_bossdeath.yy",},"order":5,},
+    {"id":{"name":"msc_win","path":"sounds/msc_win/msc_win.yy",},"order":5,},
     {"id":{"name":"spr_asteroid_huge","path":"sprites/spr_asteroid_huge/spr_asteroid_huge.yy",},"order":1,},
     {"id":{"name":"spr_captcha","path":"sprites/spr_captcha/spr_captcha.yy",},"order":6,},
     {"id":{"name":"rm_win","path":"rooms/rm_win/rm_win.yy",},"order":3,},
