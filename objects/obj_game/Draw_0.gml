@@ -20,7 +20,7 @@ WASD: Move
 Hold Space: Shoot
 Mouse: Aim ship
 
-Click on the triangle to start (captcha)
+Click the triangle to start
 "
 		)
 		break

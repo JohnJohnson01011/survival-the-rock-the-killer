@@ -1,7 +1,8 @@
 instance_destroy()
 
 with(other){
-	instance_destroy()
+	//instance_destroy()
+	alarm_set(0, 1)
 	
 	if sprite_index == spr_asteroid_huge {
 		score += 25
